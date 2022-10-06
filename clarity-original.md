@@ -1,18 +1,16 @@
-# Total Compensation Plan for Professional Employees
-
-## SALARY
+# Total Compensation Plan for Employees
 
 ### COMPANY's Compensation Philosophy
 
-COMPANY’s Compensation Philosophy recognizes the vital role that Compensation serves within its Management Structure, its significant contribution to the quality of our products and services, and ultimate success of our Company. The purpose of our Compensation Program is to ensure the maintenance of a progressive compensation profile, which is:
+COMPANY’s Compensation Philosophy recognizes the role that Compensation serves within the Management Structure, its contribution to our products and services, and success of COMPANY. The purpose of our Compensation Program is to maintain a progressive compensation profile, which is:
 
-* Equitable for all employees
+* Equitable for all
 * Externally competitive
-* Reasonable and cost-effective for our customers
+* Cost-effective for our customers
 
-Moreover, Compensation enables us to attract, retain, and motivate COMPANY “heroes” who have the knowledge and skills necessary to provide superior quality products and services at the best possible value for our customers.
+Moreover, compensation enables us to attract, retain, and motivate COMPANY “heroes” who have the knowledge and skills necessary to provide superior products and services at the best value.
 
-Our Program is distinguished as a tool to be used in attaining Company and Program objectives. The following principles and procedures provide the framework for our salary administration practices:
+Our Program is distinguished as a tool to be used in attaining COMPANY and Program objectives. The following principles and procedures provide the framework for our salary administration practices:
 
 * Assure that employees are treated fairly based solely upon individual performance and the knowledge, problem-solving skills, and accountability required to perform their job;
 * Provide incentives for personal growth by utilizing a positive, motivational approach to compensation;
