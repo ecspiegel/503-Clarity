@@ -13,9 +13,9 @@ Moreover, our Compensation Program enables us to attract, retain, and motivate C
 Our Program is distinguished as a tool to be used in attaining COMPANY and Program objectives. The following principles and procedures provide the framework for our salary administration practices:
 
 * Employees are treated fairly based upon individual performance and the knowledge, problem-solving skills, and accountability required to perform their job.
-* Provide incentives for personal growth by utilizing a positive, motivational approach to compensation.
-* Maintain a system of control over salary expenses.
-* Assure that salary policies are soundly administered and that job analysis elements (including job content questionnaires, evaluations, and salary ranges) are kept up-to-date to maintain the integrity of the Program and to enhance the accuracy of our direct labor rate estimates.
+* COMPANY provides incentives for personal growth by utilizing a positive, motivational approach to compensation.
+* Compensation Program maintains a system of control over salary expenses.
+* COMPANY assures that salary policies are soundly administered and that job analysis elements (including job content questionnaires, evaluations, and salary ranges) are kept up-to-date to maintain the integrity of the Program and to enhance the accuracy of our direct labor rate estimates.
 	 
 ### Elements of COMPANY’s Compensation Program 
 
@@ -42,8 +42,8 @@ Compensation band levels increase in direct proportion to the increase in the sc
 
 #### Market Reference Zones/Salary Ranges
 
-Market surveys utilized by COMPANY provide representation of comparable jobs, industry, revenue size, and geographic location and include the following: Mercer; Towers Watson; Western Management; Radford; HR Alliance and the Human Resource Association of the National Capital Area. These surveys contain salary data and employee benefits information located in over 800 geographic regions. Our usage of and participation in these market surveys reinforces our commitment to maintaining competitive salary ranges. COMPANY’s Market Reference Zones (expressed in terms of a minimum, midpoint, and maximum) are compliant with FAR 31.205-6 and DCAA guidance (Contract Audit Manual, 5-1020.3, January 1994). COMPANY considers the entire range assigned to a particular grade to be adequate to attract and compensate fully competent job performers. 
+Market surveys utilized by COMPANY provide representation of comparable jobs, industry, revenue size, and geographic location. The surveys include the following: Mercer, Towers Watson, Western Management, Radford, HR Alliance and the Human Resource Association of the National Capital Area. These surveys contain salary data and employee benefits information located in over 800 geographic regions. Our usage of and participation in these market surveys reinforce our commitment to maintaining competitive salary ranges. COMPANY’s Market Reference Zones (expressed in terms of a minimum, midpoint, and maximum) are compliant with FAR 31.205-6 and DCAA guidance (Contract Audit Manual, 5-1020.3, January 1994). COMPANY considers the entire range assigned to a particular grade to be adequate to attract and compensate fully competent job performers. 
 
-COMPANY generally hires employees at salaries between the minimum and midpoint of the salary range. However, there are times when an employee may be hired at a salary above the midpoint. Examples of circumstances where an employee may be hired above the midpoint include candidates with experience and education beyond the minimum required for the job, positions in a new or specialized field with a limited population of competent employees, or where specific contractual experience requirements are outside the market norms. 
+COMPANY hires employees at salaries between the minimum and midpoint of the salary range. However, there are times when an employee may be hired at a salary above the midpoint. Examples of circumstances where an employee may be hired above the midpoint include: candidates with experience and education beyond the minimum required for the job, positions in a new or specialized field with a limited population of competent employees, or where specific contractual experience requirements are outside the market norms. 
 
 For existing employees, salary ranges provide the flexibility to address the variables described above and to accommodate factors that influence salary review decisions. These factors include length of service, elapsed time since last salary review, and individual performance.
