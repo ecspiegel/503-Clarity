@@ -10,7 +10,11 @@ The purpose of our Compensation Program is to maintain a progressive compensatio
 
 Moreover, our Compensation Program enables us to attract, retain, and motivate COMPANY “heroes” who have the knowledge and skills necessary to provide superior products and services.
 
-Our Program is distinguished as a tool to be used in attaining COMPANY and Program objectives. The following principles and procedures provide the framework for our salary administration practices:
+<!-- I suggest removing the quotation marks for "heroes" in this line. It is condescending and implies a lack of sincerity. -->
+
+COMPANY and Program objectives are achieved by using the tool Our Program. The following principles and procedures provide the framework for our salary administration practices:
+
+<!-- Converted passive voice. -->
 
 * Employees are treated fairly based upon individual performance and the knowledge, problem-solving skills, and accountability required to perform their job.
 * COMPANY provides incentives for personal growth by utilizing a positive, motivational approach to compensation.
@@ -28,13 +32,17 @@ COMPANY’s Compensation Program has four principle components:
 
 #### Job Family Summaries
 
-COMPANY job family summaries (JFS) are generalized statements that outline the essential functions of a job. JFS must remain general enough to make objective market survey comparisons, yet contain enough information to differentiate one job (or group of jobs) from others. With each promotion or reclassification, an employee may remain in the same job family or job group or move to a different one. 
+COMPANY job family summaries (JFS) are generalized statements that outline the essential functions of a job. JFS must remain general enough to make objective market survey comparisons, yet contain enough information to differentiate one job (or group of jobs) from others. An employee may remain in the same job family or job group or move to a different one with each promotion or reclassification. 
 
 #### Career Stream Leveling Guides
 
-Career Stream Leveling Guides provide a summary of the type of work and hierarchy of levels with the career stream. Employees progress through their career stream as they gain experience, education, assume increased duties and responsibilities, and contribute a more significant role. Employees may also move laterally into career opportunities that may be available in differing job families. JFS coupled with the Career Stream Leveling Guides are supplemented with contract-specific job descriptions for the purposes of developing a comprehensive overview of an individual’s job. 
+Career Stream Leveling Guides provide a summary of the type of work and hierarchy of levels with the career stream. Employees progress through their career stream as they gain experience, education, assume increased duties and responsibilities. Employees may also move laterally into career opportunities available in differing job families. Contract-specific job descriptions supplement JFS and Career Stream Living Guides. These descriptions assist to develop a comprehensive overview of an individual’s job. 
 
-All levels of employees are offered the opportunity to grow personally and professionally while receiving promotional and merit increases commensurate with their development and contributions. The education and years of experience criteria, coupled with the other competency requirements, are provided as a general guideline to assist managers in matching employees to jobs. The standard COMPANY equivalency is set at 1.5 years of related work experience per one year of post-secondary education. These levels are consistent with market data and are not intended to restrict or inhibit an individual’s placement based on years of experience or education alone. Individual contract/client requirements may override COMPANY’s standard equivalency. 
+<!-- Reworded some passive voice. Broke up a complex sentence. Removed some vague and exccessive wording. -->
+
+All levels of employees are offered the opportunity to grow while receiving promotional and merit increases commensurate with their development and contributions. The education and years of experience criteria provide a general guideline to assist managers in matching employees to jobs. The standard COMPANY equivalency is set at 1.5 years of related work experience per one year of post-secondary education. These levels are consistent with market data and are not intended to restrict or inhibit an individual’s placement based on years of experience or education alone. Individual contract/client requirements may override COMPANY’s standard equivalency. 
+
+<!-- Removed some excess verbiage. -->
 
 #### Band and Market Reference Zone Salary Structures
 
